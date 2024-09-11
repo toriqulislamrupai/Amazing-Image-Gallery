@@ -14,4 +14,4 @@ A visually appealing and responsive image gallery built with **HTML**, **Tailwin
 1. **Clone this Repository**:
    ```bash
    git clone <repository-url>
-2.Open the index.html File: Open the file in your web browser to view the gallery.
+2.Open the index.html and script.js file: Open the file in your web browser to view the gallery.
